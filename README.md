@@ -1,6 +1,6 @@
 Tool: Python / Jupyter Notebook
 <br><br>
-Contents: Using various machine learning techniques to improve coupon recommendation system
+Contents: Using machine learning techniques to improve coupon recommendation system
 <br><br>
-#datascience #dataanalysis
+#datascience #dataanalysis #uniproject
 
