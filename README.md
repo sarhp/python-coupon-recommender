@@ -10,7 +10,10 @@
 <br>
 
 This repository contains two types of files:
-- File containing code (in .ipynb format).
-- File containing reports (also in .ipynb format).
-#datascience #dataanalysis #uniproject
+- enhancing_coupon_recommendation_system.ipynb (code) 
+- report_enhancing_coupon_recommendation_system.ipynb (report format)
+
+<br>
+
+#datascience #dataanalytics #uniproject
 
