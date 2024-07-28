@@ -1,7 +1,7 @@
 ## In vehicle coupon reconmmendation
 
 
-**Objective:** Using machine learning techniques (DTC and MLP) to improve coupon recommendation system
+The objective of this project is to use machine learning techniques including Neural Networks and Decision Trees, for predicting customer acceptance or rejection of various types of coupons. The project also involves data cleaning and analysis as integral components.
 
 <br>
 
@@ -9,7 +9,7 @@
 
 <br>
 
-This repository contains two types of files:
+The repository contains two types of files:
 - enhancing_coupon_recommendation_system.ipynb (code) 
 - report_enhancing_coupon_recommendation_system.ipynb (report format)
 
