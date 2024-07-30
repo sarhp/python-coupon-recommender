@@ -1,4 +1,4 @@
-## In vehicle coupon reconmmendation
+## In vehicle coupon recnmmendation
 
 
 The objective of this project is to use machine learning techniques including Neural Networks and Decision Trees, for predicting customer acceptance or rejection of various types of coupons. The project also involves data cleaning and analysis as integral components.
