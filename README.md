@@ -1,6 +1,6 @@
 ## In vehicle Coupon Recommendation (data science / data analysis)
 
-The objective of this project is to use machine learning techniques including Neural Networks and Decision Trees, for predicting customer acceptance or rejection of various types of coupons. The project also involves data cleaning and analysis as integral components.
+Objective: Assess how effectively Neural Networks and Decision Trees predict customer acceptance or rejection of various types of coupons. Also includes exploratory data analysis.
 
 <br>
 
