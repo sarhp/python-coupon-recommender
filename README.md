@@ -1,18 +1,10 @@
-## In vehicle Coupon Recommendation (data science / data analysis)
+## In vehicle Coupon Recommendation 
 
-Objective: Assess how effectively Neural Networks and Decision Trees predict customer acceptance or rejection of various types of coupons. Also includes exploratory data analysis.
+[dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00603/in-vehicle-coupon-recommendation.csv)
 
-<br>
+![image](https://github.com/user-attachments/assets/c6c3999c-dd4a-4507-b04f-492ecdb7d568)
 
-[Data source](https://archive.ics.uci.edu/ml/machine-learning-databases/00603/in-vehicle-coupon-recommendation.csv)
 
-<br>
-
-**2 files:**
-
-**Code -** enhancing_coupon_recommendation_system.ipynb
-
-**Report -** enhancing coupon recommendation system.pdf
 
 
 
